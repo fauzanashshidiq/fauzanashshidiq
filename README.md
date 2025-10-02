@@ -16,12 +16,17 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) 
+![Blade](https://img.shields.io/badge/blade-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![XAMPP](https://img.shields.io/badge/XAMPP-F37623.svg?style=plastic&logo=xampp&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
@@ -59,12 +64,4 @@
 ### 🚀 Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=fauzanashshidiq&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=fauzanashshidiq&icon=5&color=6" alt="Profile Views"/>
-  </a>
 </p>
