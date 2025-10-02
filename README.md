@@ -44,24 +44,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzanashshidiq&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzanashshidiq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanashshidiq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fauzanashshidiq&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fauzanashshidiq&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 🚀 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fauzanashshidiq&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
