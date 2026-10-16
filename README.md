@@ -1,11 +1,11 @@
-# Hello Everyone! I'm @fauzanashshidiq
+# Hello Everyone! I'm @fauzanashshidiq 👋
 
-# 👨‍💻 About Me  
-- 🎓 Currently a **5th-semester Informatics Engineering student**.  
-- 💡 Passionate about building things as a **Software Engineer**, with growing interest in **AI & Machine Learning**.  
-- 🚀 Sharpening my skills in **Kotlin, Laravel, Next.js, TypeScript**, and **Tailwind CSS**.  
-- 🤝 Love working in a team and have experience collaborating on different **tech projects**.  
-- 🌱 Always curious and learning to become a better problem solver.  
+## 👨‍💻 About Me  
+- 🎓 Currently a **7th-semester Informatics Engineering student**.  
+- 💡 Passionate about building things as a **Software Engineer**, with a strong focus on **Full-Stack Web Development, Mobile, and AI & Machine Learning**.  
+- 🚀 Sharpening my skills in **Next.js, FastAPI, Laravel, Kotlin, TypeScript**, and **Tailwind CSS**.  
+- 🤝 Love collaborating on cross-functional teams and building impactful **tech projects**.  
+- 🌱 Always curious and continuous learner aiming to become a better problem solver.
 
 # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
